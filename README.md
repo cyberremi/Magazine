@@ -21,11 +21,7 @@ Optional: Newsletter subscription form, comment section, search bar
 🛠️ Technologies Used
 HTML5
 
-CSS3 / SCSS (or CSS Frameworks like Bootstrap, Tailwind CSS)
-
-JavaScript (for interactivity, if included)
-
-[Optional] Fonts and icons (Google Fonts, Font Awesome)
+CSS3 / SCSS
 
 🎯 Purpose
 This project is part of a web development portfolio and was built to demonstrate skills in layout design, content organization, and responsive styling. It can be used as a template for real-world online magazines or blogs.
@@ -36,14 +32,14 @@ Include a screenshot or demo link here:
 less
 Copy
 Edit
-[Live Demo](https://your-magazine-demo-link.com)
+[Live Demo](https://cyberremi.github.io/Magazine/)
 📁 How to Use
 Clone the repository:
 
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/magazine-website.git
+git clone https://github.comhttps:/cyberremi.github.io/Magazine/
 Navigate to the project folder:
 
 bash
