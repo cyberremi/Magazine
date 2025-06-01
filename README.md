@@ -32,14 +32,14 @@ Include a screenshot or demo link here:
 less
 Copy
 Edit
-[Live Demo](https://cyberremi.github.io/Magazine/)
+Live Demo https://cyberremi.github.io/Magazine/
 📁 How to Use
 Clone the repository:
 
 bash
 Copy
 Edit
-git clone https://github.comhttps:/cyberremi.github.io/Magazine/
+git clone https://cyberremi.github.io/Magazine/
 Navigate to the project folder:
 
 bash
