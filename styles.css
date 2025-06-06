@@ -59,6 +59,8 @@ hr {
   column-width: 25rem;
   text-align: justify;
 }
+.h1f {
+  text-align: center;
 
 .hero {
   grid-column: 1 / -1;
